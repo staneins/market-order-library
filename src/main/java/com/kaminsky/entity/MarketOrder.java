@@ -4,7 +4,7 @@ import com.kaminsky.status.Status;
 
 import java.util.UUID;
 
-public class Order {
+public class MarketOrder {
     private UUID id;
 
     private int price;
